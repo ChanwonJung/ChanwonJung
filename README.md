@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=🥳Welcome%20to%20%20CW's%20Profile!😋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&text=🥳Welcome%20to%20%20my%20Profile!😋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Who am I? </h2>  
