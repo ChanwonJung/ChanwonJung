@@ -6,17 +6,17 @@
 <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9; line-height: 1.8;">
   <strong>👋 Hi there! I’m an undergraduate student passionate about robotics and intelligent systems.</strong> <br><br>
 
-  🤖 I'm currently working on <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br>
-  🧠 I'm especially interested in <strong>real-time object detection</strong>, using <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
-  🛠️ I enjoy building robotics pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br>
-  🚀 Lately, I've been exploring <strong>reinforcement learning</strong> for dynamic navigation. <br>
-  🌱 I’m always excited to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
+  - I'm currently working on <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br>
+  - I'm especially interested in <strong>real-time object detection</strong>, using <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
+  - I enjoy building robotics pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br>
+  - Lately, I've been exploring <strong>reinforcement learning</strong> for dynamic navigation. <br>
+  - I’m always excited to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
 </div>
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧾 Career </h2>
 <div style="font-weight: 500; font-size: 15px; color: #c9d1d9; line-height: 1.8;">
-  📌 Member, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2023) <br>
-  🧭 President, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2024) <br>
-  🤖 Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br>
+  - Member, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2023) <br>
+  - President, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2024) <br>
+  - Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br>
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
