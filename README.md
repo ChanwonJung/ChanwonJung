@@ -12,6 +12,7 @@
   - Lately, I've been exploring <strong>reinforcement learning</strong> for dynamic navigation. <br>
   - I’m always excited to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
 </div>
+
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧾 Career </h2>
 <div style="font-weight: 500; font-size: 15px; color: #c9d1d9; line-height: 1.8;">
   - Member, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2023) <br>
