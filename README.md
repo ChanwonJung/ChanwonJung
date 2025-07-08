@@ -4,7 +4,7 @@
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Who am I? </h2>  
 <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9; line-height: 1.8;">
-  <span style="font-size: 17px;">👋 Hi there! I’m an undergraduate student passionate about robotics and intelligent systems.</span> <br><br>
+  <span style="font-size: 20px;">👋 Hi there! I’m an undergraduate student passionate about robotics and intelligent systems.</span> <br><br>
 
   🤖 I'm currently working on <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br>
   🧠 I'm especially interested in <strong>real-time object detection</strong>, using <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
