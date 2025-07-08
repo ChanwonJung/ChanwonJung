@@ -2,15 +2,16 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋Welcome%20to%20CW's%20Profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-## ✨ Who am I?
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Who am I? </h2>  
+<div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9; line-height: 1.8;">
+  <strong>👋 Hi there! I’m an undergraduate student passionate about robotics and intelligent systems.</strong> <br><br>
 
-**👋 Hi there!** I’m an undergraduate student passionate about robotics and intelligent systems.
-
-🤖 I'm currently working on **3D SLAM** and **autonomous navigation** using **LiDAR** and **ROS 2**.  
-🧠 I'm especially interested in **real-time object detection**, using **YOLOv8** and **YOLOv11**.  
-🛠️ I enjoy building robotics pipelines that combine **sensor fusion**, **path planning**, and **deep learning**.  
-🚀 Lately, I've been exploring **reinforcement learning** for dynamic navigation.  
-🌱 I’m always excited to explore new technologies in **robotics** and **AI**.
+  🤖 I'm currently working on <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br>
+  🧠 I'm especially interested in <strong>real-time object detection</strong>, using <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
+  🛠️ I enjoy building robotics pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br>
+  🚀 Lately, I've been exploring <strong>reinforcement learning</strong> for dynamic navigation. <br>
+  🌱 I’m always excited to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
