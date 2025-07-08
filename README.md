@@ -16,7 +16,7 @@
 <div style="font-weight: 500; font-size: 15px; color: #c9d1d9; line-height: 1.8;"> 
   • Member, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2023) <br>
   • President, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2024) <br>
-  • Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br><br>
+  • Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br>
   • Booth Operator, Yongin Cyber Science Festival (Aug 2024)<br>
 </div>
   
