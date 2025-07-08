@@ -10,7 +10,6 @@
   • I'm especially interested in <strong>real-time object detection</strong>, using <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
   • I enjoy building robotics pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br>
   • Lately, I've been exploring <strong>reinforcement learning</strong> for dynamic navigation. <br>
-  • I’m always excited to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧾 Career </h2>
