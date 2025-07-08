@@ -2,9 +2,15 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=👋Welcome%20to%20CW's%20Profile!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Who am I? </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> I'm interested in SLAM and Navigation using ROS2.</li></li><li> Recently, I have become more interested in object recognition (YOLO) and data segmentation using Computer vision.</li></li><li> I plan to study more about camera calibration soon. </div> 
-    </div>
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Who am I? </h2>  
+<div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+  <li> I'm an undergraduate student passionate about robotics and intelligent systems.</li>
+  <li> Currently exploring 3D SLAM and autonomous navigation using LiDAR and ROS 2.</li>
+  <li> Deeply interested in real-time object detection with YOLOv8 and YOLOv11.</li>
+  <li> Building robotic pipelines that combine sensor fusion, path planning, and deep learning.</li>
+  <li> Recently learning about reinforcement learning for navigation in dynamic environments.</li>
+  <li> Always eager to explore new technologies in robotics and AI. </li>
+</div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
