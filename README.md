@@ -6,10 +6,10 @@
 <div style="font-weight: 500; font-size: 15px; text-align: left; color: #c9d1d9; line-height: 1.8;">
   👋 Hi there! I’m an undergraduate student passionate about robotics and intelligent systems. <br><br>
     
-  🤖 Currently exploring <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br><br>
-  🧠 Deeply interested in real-time object detection with <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br><br>
-  🛠️ Building robotic pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br><br>
-  🚀 Recently learning about <strong>reinforcement learning</strong> for navigation in dynamic environments. <br><br>
+  🤖 Currently exploring <strong>3D SLAM</strong> and <strong>autonomous navigation</strong> using <strong>LiDAR</strong> and <strong>ROS 2</strong>. <br>
+  🧠 Deeply interested in real-time object detection with <strong>YOLOv8</strong> and <strong>YOLOv11</strong>. <br>
+  🛠️ Building robotic pipelines that combine <strong>sensor fusion</strong>, <strong>path planning</strong>, and <strong>deep learning</strong>. <br>
+  🚀 Recently learning about <strong>reinforcement learning</strong> for navigation in dynamic environments. <br>
   🌱 Always eager to explore new technologies in <strong>robotics</strong> and <strong>AI</strong>.  
 </div>
     <div style="text-align: left;">
