@@ -16,7 +16,20 @@
 <div style="font-weight: 500; font-size: 15px; color: #c9d1d9; line-height: 1.8;"> 
   • Member, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2023) <br>
   • President, <strong>HYPER Robotics Vision Club</strong>, Kyung Hee University (2024) <br>
-  • Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br>
+  • Graduate, <strong>Doosan Robotics Bootcamp 3rd Cohort</strong> (2025.01 – 2025.07) <br><br>
+  
+  • Coding Education Volunteer, Seoul Dongbuk High School (Jan 2024 – Present)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Taught coding basics to high school students as part of a social contribution program.<br><br>
+  
+  • Booth Operator, Yongin Cyber Science Festival (Aug – Dec 2024)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Represented the Hyper Robotics Vision Club to engage attendees in interactive STEM experiences, promoting robotics and autonomous driving technologies.<br><br>
+  
+  • President, Hyper Robotics Vision Club (Sept 2024)<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;Led club activities focusing on ROS2, Gazebo, and organized collaborative robotics projects.<br><br>
+  
+  • KHreative StartUp Dream Encouragement Award, Kyung Hee University (Dec 2023)<br>
+  • KHuthon Excellence Award, Kyung Hee University (May 2024)<br>
+  • KHreative StartUp Dream 2.0 Innovation Award, Kyung Hee University (Jun 2024)<br>
 </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
