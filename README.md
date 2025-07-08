@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=%F0%9F%91%8B%20Hello!%20I'm%20Chanwon%20Jung,%20passionate%20about%20robotics%20and%20AI.%20%F0%9F%91%8B&animation=fadeIn&fontColor=ffffff&fontSize=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=%F0%9F%91%8B%20Hello!%20I'm%20Chanwon%20Jung.&animation=fadeIn&fontColor=ffffff&fontSize=40" />
+</div>
+<div align="center" style="margin-top:-10px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&text=passionate%20about%20robotics%20and%20AI.&animation=fadeIn&fontColor=ffffff&fontSize=30" />
 </div>
     <div style="text-align: left;"> 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> ✨ Who am I? </h2>  
